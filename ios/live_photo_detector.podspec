@@ -3,7 +3,7 @@
 # Run `pod lib lint m7_livelyness_detection.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'm7_livelyness_detection'
+  s.name             = 'live_photo_detector'
   s.version          = '0.0.1'
   s.summary          = 'A new Flutter plugin project.'
   s.description      = <<-DESC
