@@ -1,7 +1,7 @@
 name: live_photo_detector
 description: A single function package to detect weather the face visible in the
   camera is a live face or not.
-version: 1.0.5
+version: 1.0.6
 homepage: https://github.com/hoenkava/live_photo_detector
 repository: https://github.com/hoenkava/live_photo_detector/
 issue_tracker: https://github.com/hoenkava/live_photo_detector/issues
@@ -13,7 +13,7 @@ environment:
 dependencies:
   animate_do: ^3.0.2
   camera: ^0.11.0+1
-  camerawesome: ^2.0.1
+  # camerawesome: ^2.3.0
   collection: ^1.18.0
   equatable: ^2.0.5
   flutter:
